@@ -3,7 +3,7 @@
 
 Customer Churn Prediction
  
-Name          : P. Sabari Raj
+Name          : P. Sabari Raj <br>
 
 Reg.No        :	410121104039
 

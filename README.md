@@ -2,6 +2,9 @@
 # Phase-2 project Submission 
 
 Customer Churn Prediction
+
+![20943904](https://github.com/sabarirajpazhani/customer-churn-predictio-Phase-2/assets/143380285/01b46a0c-5885-41ac-8d96-cc07245807ed)
+
  
 Name          : P. Sabari Raj <br>
 

@@ -1,5 +1,5 @@
-# customer-churn-predictio-Phase-2n
-#Phase-2 project Submission 
+# customer-churn-predictio-Phase-2
+# Phase-2 project Submission 
 
 Customer Churn Prediction
  
